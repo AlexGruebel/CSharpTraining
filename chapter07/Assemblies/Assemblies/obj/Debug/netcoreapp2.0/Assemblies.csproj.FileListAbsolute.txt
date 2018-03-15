@@ -1,0 +1,10 @@
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\bin\Debug\netcoreapp2.0\Assemblies.deps.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\bin\Debug\netcoreapp2.0\Assemblies.runtimeconfig.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\bin\Debug\netcoreapp2.0\Assemblies.runtimeconfig.dev.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\bin\Debug\netcoreapp2.0\Assemblies.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\bin\Debug\netcoreapp2.0\Assemblies.pdb
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\obj\Debug\netcoreapp2.0\Assemblies.csproj.CoreCompileInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\obj\Debug\netcoreapp2.0\Assemblies.AssemblyInfoInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\obj\Debug\netcoreapp2.0\Assemblies.AssemblyInfo.cs
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\obj\Debug\netcoreapp2.0\Assemblies.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\Assemblies\obj\Debug\netcoreapp2.0\Assemblies.pdb

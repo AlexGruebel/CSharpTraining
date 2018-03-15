@@ -1,0 +1,9 @@
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\bin\Release\netstandard2.0\SharedLibaray.deps.json
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\bin\Release\netstandard2.0\SharedLibaray.dll
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\bin\Release\netstandard2.0\SharedLibaray.pdb
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\obj\Release\netstandard2.0\SharedLibaray.csprojResolveAssemblyReference.cache
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\obj\Release\netstandard2.0\SharedLibaray.csproj.CoreCompileInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\obj\Release\netstandard2.0\SharedLibaray.AssemblyInfoInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\obj\Release\netstandard2.0\SharedLibaray.AssemblyInfo.cs
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\obj\Release\netstandard2.0\SharedLibaray.dll
+F:\Projekte\DotNet\uebungBook\chapter07\SharedLibaray\obj\Release\netstandard2.0\SharedLibaray.pdb

@@ -1,0 +1,10 @@
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Debug\netcoreapp2.0\DotNetCoreEveryWhere.deps.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Debug\netcoreapp2.0\DotNetCoreEveryWhere.runtimeconfig.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Debug\netcoreapp2.0\DotNetCoreEveryWhere.runtimeconfig.dev.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Debug\netcoreapp2.0\DotNetCoreEveryWhere.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Debug\netcoreapp2.0\DotNetCoreEveryWhere.pdb
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Debug\netcoreapp2.0\DotNetCoreEveryWhere.csproj.CoreCompileInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Debug\netcoreapp2.0\DotNetCoreEveryWhere.AssemblyInfoInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Debug\netcoreapp2.0\DotNetCoreEveryWhere.AssemblyInfo.cs
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Debug\netcoreapp2.0\DotNetCoreEveryWhere.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Debug\netcoreapp2.0\DotNetCoreEveryWhere.pdb

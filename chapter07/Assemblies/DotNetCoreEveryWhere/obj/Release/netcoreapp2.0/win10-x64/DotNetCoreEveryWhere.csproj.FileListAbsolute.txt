@@ -1,0 +1,12 @@
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.exe
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.deps.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.runtimeconfig.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.runtimeconfig.dev.json
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\bin\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.dll
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.csprojResolveAssemblyReference.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.csproj.CoreCompileInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.AssemblyInfoInputs.cache
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.AssemblyInfo.cs
+F:\Projekte\DotNet\uebungBook\chapter07\Assemblies\DotNetCoreEveryWhere\obj\Release\netcoreapp2.0\win10-x64\DotNetCoreEveryWhere.dll

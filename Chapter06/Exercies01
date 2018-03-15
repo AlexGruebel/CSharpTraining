@@ -1,0 +1,33 @@
+1. delegate:
+    a delegate is like a method pointer
+    its points to method 
+
+2. event:
+    its get executed when sth happend //rework
+
+
+3. base derived class
+The base class is the class from which the derived class get all the attributs
+The derived class can only access non private Fields
+
+4. is and as
+is --> check if the object is a type of a class for example "p is Person"
+
+as --> explict cast one type to another
+
+5. prevent a class to derived or a method to be overridden
+with the keyword sealed
+
+6.which keyword prevents a class to instantiated with new
+static
+
+7. keyword to allow members to be overridden
+virtual
+
+8. the differenc between a destructor and decounstructor
+
+9.
+
+
+10.
+you need a static class and method and the paramater of the method need the keyword this and has to be the class you want to write the extension method for

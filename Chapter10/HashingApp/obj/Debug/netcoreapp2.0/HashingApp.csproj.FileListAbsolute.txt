@@ -1,0 +1,12 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/CryptographyLib.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/bin/Debug/netcoreapp2.0/CryptographyLib.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.pdb

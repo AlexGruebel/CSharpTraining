@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/bin/Debug/netcoreapp2.0/WritingFunctions.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/WritingFunctions/obj/Debug/netcoreapp2.0/WritingFunctions.pdb

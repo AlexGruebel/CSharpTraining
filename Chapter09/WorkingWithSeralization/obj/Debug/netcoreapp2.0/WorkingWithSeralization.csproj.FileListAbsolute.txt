@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/obj/Debug/netcoreapp2.0/WorkingWithSeralization.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/obj/Debug/netcoreapp2.0/WorkingWithSeralization.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/obj/Debug/netcoreapp2.0/WorkingWithSeralization.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/bin/Debug/netcoreapp2.0/WorkingWithSeralization.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/bin/Debug/netcoreapp2.0/WorkingWithSeralization.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/bin/Debug/netcoreapp2.0/WorkingWithSeralization.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/bin/Debug/netcoreapp2.0/WorkingWithSeralization.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/bin/Debug/netcoreapp2.0/WorkingWithSeralization.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/obj/Debug/netcoreapp2.0/WorkingWithSeralization.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithSeralization/obj/Debug/netcoreapp2.0/WorkingWithSeralization.pdb

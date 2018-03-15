@@ -1,0 +1,15 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercise02UnitTest.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercise02UnitTest.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercise02UnitTest.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercise02UnitTest.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercise02UnitTest.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/obj/Debug/netcoreapp2.0/Exercise02UnitTest.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/obj/Debug/netcoreapp2.0/Exercise02UnitTest.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/obj/Debug/netcoreapp2.0/Exercise02UnitTest.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/obj/Debug/netcoreapp2.0/Exercise02UnitTest.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/obj/Debug/netcoreapp2.0/Exercise02UnitTest.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercies02.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Exercise02UnitTest/bin/Debug/netcoreapp2.0/Exercies02.pdb

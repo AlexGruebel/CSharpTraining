@@ -1,0 +1,8 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.pdb

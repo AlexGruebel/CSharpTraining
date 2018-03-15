@@ -1,0 +1,6 @@
+1. A Linq Provider and the Linq extensions Method
+2. select
+3. where
+4. Min, Max, Average, Sum, Count2. select
+5. Select gibt das zurück was du genau angibst
+   Select-Many gibt die selektierten Items in kleine Teile zurück Beispielsweise   eine String in chars oder einen Array in die einzel Teile

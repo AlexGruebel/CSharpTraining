@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/obj/Debug/netcoreapp2.0/WorkingWithLists.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/obj/Debug/netcoreapp2.0/WorkingWithLists.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/obj/Debug/netcoreapp2.0/WorkingWithLists.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/bin/Debug/netcoreapp2.0/WorkingWithLists.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/bin/Debug/netcoreapp2.0/WorkingWithLists.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/bin/Debug/netcoreapp2.0/WorkingWithLists.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/bin/Debug/netcoreapp2.0/WorkingWithLists.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/bin/Debug/netcoreapp2.0/WorkingWithLists.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/obj/Debug/netcoreapp2.0/WorkingWithLists.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithLists/obj/Debug/netcoreapp2.0/WorkingWithLists.pdb

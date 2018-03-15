@@ -1,0 +1,12 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PacktLibrary.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/bin/Debug/netcoreapp2.0/PacktLibrary.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.pdb

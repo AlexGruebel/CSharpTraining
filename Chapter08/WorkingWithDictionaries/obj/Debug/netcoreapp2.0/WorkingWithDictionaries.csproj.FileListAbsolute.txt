@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/obj/Debug/netcoreapp2.0/WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/obj/Debug/netcoreapp2.0/WorkingWithDictionaries.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/obj/Debug/netcoreapp2.0/WorkingWithDictionaries.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/bin/Debug/netcoreapp2.0/WorkingWithDictionaries.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/bin/Debug/netcoreapp2.0/WorkingWithDictionaries.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/bin/Debug/netcoreapp2.0/WorkingWithDictionaries.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/bin/Debug/netcoreapp2.0/WorkingWithDictionaries.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/bin/Debug/netcoreapp2.0/WorkingWithDictionaries.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/obj/Debug/netcoreapp2.0/WorkingWithDictionaries.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithDictionaries/obj/Debug/netcoreapp2.0/WorkingWithDictionaries.pdb

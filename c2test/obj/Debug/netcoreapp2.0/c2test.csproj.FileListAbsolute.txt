@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/c2test/bin/Debug/netcoreapp2.0/c2test.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/c2test/bin/Debug/netcoreapp2.0/c2test.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/c2test/bin/Debug/netcoreapp2.0/c2test.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/c2test/bin/Debug/netcoreapp2.0/c2test.dll
+/home/alexander/Workspace/DotNet/uebungBook/c2test/bin/Debug/netcoreapp2.0/c2test.pdb
+/home/alexander/Workspace/DotNet/uebungBook/c2test/obj/Debug/netcoreapp2.0/c2test.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/c2test/obj/Debug/netcoreapp2.0/c2test.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/c2test/obj/Debug/netcoreapp2.0/c2test.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/c2test/obj/Debug/netcoreapp2.0/c2test.dll
+/home/alexander/Workspace/DotNet/uebungBook/c2test/obj/Debug/netcoreapp2.0/c2test.pdb

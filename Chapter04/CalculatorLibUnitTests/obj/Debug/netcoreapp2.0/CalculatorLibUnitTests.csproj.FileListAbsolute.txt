@@ -1,0 +1,15 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLibUnitTests.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/obj/Debug/netcoreapp2.0/CalculatorLibUnitTests.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLib.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/CalculatorLibUnitTests/bin/Debug/netcoreapp2.0/CalculatorLib.pdb

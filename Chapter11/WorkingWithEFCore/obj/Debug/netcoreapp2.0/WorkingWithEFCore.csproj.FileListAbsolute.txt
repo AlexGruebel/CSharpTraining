@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/bin/Debug/netcoreapp2.0/WorkingWithEFCore.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/bin/Debug/netcoreapp2.0/WorkingWithEFCore.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/bin/Debug/netcoreapp2.0/WorkingWithEFCore.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/bin/Debug/netcoreapp2.0/WorkingWithEFCore.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/bin/Debug/netcoreapp2.0/WorkingWithEFCore.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/obj/Debug/netcoreapp2.0/WorkingWithEFCore.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/obj/Debug/netcoreapp2.0/WorkingWithEFCore.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/obj/Debug/netcoreapp2.0/WorkingWithEFCore.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/obj/Debug/netcoreapp2.0/WorkingWithEFCore.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter11/WorkingWithEFCore/obj/Debug/netcoreapp2.0/WorkingWithEFCore.pdb

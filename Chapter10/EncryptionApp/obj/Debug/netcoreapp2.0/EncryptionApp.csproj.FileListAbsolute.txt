@@ -1,0 +1,12 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/CryptographyLib.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/bin/Debug/netcoreapp2.0/CryptographyLib.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter10/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.pdb

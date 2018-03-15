@@ -1,0 +1,8 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter06/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb

@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp2.0/WorkingWithFileSystems.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp2.0/WorkingWithFileSystems.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp2.0/WorkingWithFileSystems.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp2.0/WorkingWithFileSystems.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/bin/Debug/netcoreapp2.0/WorkingWithFileSystems.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp2.0/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp2.0/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp2.0/WorkingWithFileSystems.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp2.0/WorkingWithFileSystems.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter09/WorkingWithFileSystems/obj/Debug/netcoreapp2.0/WorkingWithFileSystems.pdb

@@ -1,0 +1,26 @@
+1. DBset
+
+2. List
+
+3. have ID in the name
+
+4. when want to change the name or map it to a database type 
+
+5. you have more options and it is separte the class
+
+6. how the rows you currently working in this transaction will be looked secured
+
+7. an int 
+
+8. on eager loading everthing loads at once in explecit you can select every row to load or not to load
+
+9. public int EmpID {get; set;}
+   
+   [Required]
+   [StringLength(40)]
+   public String FirstName {get;set;}
+
+   [TypeName="money"]
+   public decimal Salery{get;set;}
+
+10. Its support lazy loading better

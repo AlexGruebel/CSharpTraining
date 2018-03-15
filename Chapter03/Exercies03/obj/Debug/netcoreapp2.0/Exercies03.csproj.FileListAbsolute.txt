@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/bin/Debug/netcoreapp2.0/Exercies03.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/bin/Debug/netcoreapp2.0/Exercies03.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/bin/Debug/netcoreapp2.0/Exercies03.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/bin/Debug/netcoreapp2.0/Exercies03.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/bin/Debug/netcoreapp2.0/Exercies03.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/obj/Debug/netcoreapp2.0/Exercies03.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/obj/Debug/netcoreapp2.0/Exercies03.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/obj/Debug/netcoreapp2.0/Exercies03.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/obj/Debug/netcoreapp2.0/Exercies03.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter03/Exercies03/obj/Debug/netcoreapp2.0/Exercies03.pdb

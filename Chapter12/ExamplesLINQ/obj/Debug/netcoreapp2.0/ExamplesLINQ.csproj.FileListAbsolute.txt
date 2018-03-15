@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/bin/Debug/netcoreapp2.0/ExamplesLINQ.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/bin/Debug/netcoreapp2.0/ExamplesLINQ.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/bin/Debug/netcoreapp2.0/ExamplesLINQ.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/bin/Debug/netcoreapp2.0/ExamplesLINQ.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/bin/Debug/netcoreapp2.0/ExamplesLINQ.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/obj/Debug/netcoreapp2.0/ExamplesLINQ.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/obj/Debug/netcoreapp2.0/ExamplesLINQ.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/obj/Debug/netcoreapp2.0/ExamplesLINQ.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/obj/Debug/netcoreapp2.0/ExamplesLINQ.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter12/ExamplesLINQ/obj/Debug/netcoreapp2.0/ExamplesLINQ.pdb

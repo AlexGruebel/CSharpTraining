@@ -1,0 +1,13 @@
+1. max number of chars of string: 2,147,483,647 
+2. you should use a SecureString if you safe important text like passwords
+3. when you concat string its more efficent to use a string builder, you should use it in big loops
+4. when you manually want to controll the order of the items
+5. if you want to create your on keys you should use the SortedDictonary over the SortedList
+6.
+7. Internationalizition is the process to run code correctly all over the world. It has two parts globalization and localization.
+Globalization is about the lanquage and region formating for example the different date formats
+localization is about defining the right lanquage for your app for example the GUI have to have another lanquage in Germany than in England
+
+8. End of Input
+9. \d{2,}
+10.

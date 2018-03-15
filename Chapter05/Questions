@@ -1,0 +1,48 @@
+1. Acces Modifiers:
+	-public Member is accesible everywhere
+	-private & default Member ist accesible inside the type only
+	-protected is accesible inside the type and that inherits from the type
+	-internal Member ist accesible inside the type and in the same assembly
+	-internal protected combination of interenal & protected
+
+2. Difference between static, const, readonly:
+	-static is bind on the class not the object, if a static field changes it will have the same 		 value on all objects
+	
+	-if a field is defined as const, it cannot be changed
+	-if the source code gets compiled its just a literal
+	
+	-readonly field can be assigend once, and cant be changed afterwards
+	-readonly fields wont be just literals if the code gets compiled
+	
+3. Constructor:
+	-the Construcot executed, when the object is created
+	-most of the time the constructer is used to assign values to fields
+
+4. [Flag] Attribut
+	-it s used on the enum to change which typ its indexes
+	-for example byte
+
+4. partial
+	-its used to funktionality to a class in a another file
+
+6. tupel:
+	-you can store multiple values in a tuple
+	-you can index it 
+	-you can define thoses indexes
+	-moust of the time its used to return multiple values from a method
+
+7. ref:
+   -its define a reference
+
+8. overloading:
+	-when you make a copy of a method and change the signatur
+
+9. the differnce between a field and a property
+	-a property is accesible outside the class
+	-it can execute actions when the property is changed
+	-a field is variable in the class
+	-propertys are also fields
+
+10. method parameters are optional, when they have a default value
+
+

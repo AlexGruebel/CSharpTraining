@@ -1,0 +1,26 @@
+1. the File class is static class for FileOperation
+   FileInfo class is a class for operations
+   you should use the FileInfo class if you have to do more operations on a single File, becouse it performs just one security check.
+   The File class performs on every Method a security check.
+   you should use the File class if you have to do just a single operations on File because it has static methods an they are more efficents
+
+2. ReadByte reads the next Byte from a stream
+   Read reads the next char from a stream
+   
+3. StringReader read the content of a File, stream of Strings
+   TextReader
+   StreamReader read the Content of a File
+
+4. DeflateStream is stream who kompress or dekompress Data to Files with deflate algorithums
+
+5. UFT-8 4bytes:
+
+6. Object Graph is live Object
+
+7. json 
+
+8. xml
+
+9. Newtonsoft.Json
+
+10. many

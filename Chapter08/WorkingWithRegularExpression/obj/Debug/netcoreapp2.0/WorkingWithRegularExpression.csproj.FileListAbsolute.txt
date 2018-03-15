@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/bin/Debug/netcoreapp2.0/WorkingWithRegularExpression.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/bin/Debug/netcoreapp2.0/WorkingWithRegularExpression.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/bin/Debug/netcoreapp2.0/WorkingWithRegularExpression.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/bin/Debug/netcoreapp2.0/WorkingWithRegularExpression.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/bin/Debug/netcoreapp2.0/WorkingWithRegularExpression.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/obj/Debug/netcoreapp2.0/WorkingWithRegularExpression.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/obj/Debug/netcoreapp2.0/WorkingWithRegularExpression.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/obj/Debug/netcoreapp2.0/WorkingWithRegularExpression.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/obj/Debug/netcoreapp2.0/WorkingWithRegularExpression.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithRegularExpression/obj/Debug/netcoreapp2.0/WorkingWithRegularExpression.pdb

@@ -1,0 +1,8 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter04/Calculator/obj/Debug/netstandard2.0/Calculator.pdb

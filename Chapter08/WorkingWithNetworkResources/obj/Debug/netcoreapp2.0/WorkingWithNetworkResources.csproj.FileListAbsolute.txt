@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.0/WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.0/WorkingWithNetworkResources.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.0/WorkingWithNetworkResources.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.0/WorkingWithNetworkResources.deps.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.0/WorkingWithNetworkResources.runtimeconfig.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.0/WorkingWithNetworkResources.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.0/WorkingWithNetworkResources.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.0/WorkingWithNetworkResources.pdb
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.0/WorkingWithNetworkResources.dll
+/home/alexander/Workspace/DotNet/uebungBook/Chapter08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.0/WorkingWithNetworkResources.pdb

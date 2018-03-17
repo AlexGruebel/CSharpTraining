@@ -1,0 +1,11 @@
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\bin\Debug\netcoreapp2.0\Exercies02.deps.json
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\bin\Debug\netcoreapp2.0\Exercies02.runtimeconfig.json
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\bin\Debug\netcoreapp2.0\Exercies02.runtimeconfig.dev.json
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\bin\Debug\netcoreapp2.0\Exercies02.dll
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\obj\Debug\netcoreapp2.0\Exercies02.csprojResolveAssemblyReference.cache
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\obj\Debug\netcoreapp2.0\Exercies02.csproj.CoreCompileInputs.cache
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\obj\Debug\netcoreapp2.0\Exercies02.AssemblyInfoInputs.cache
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\obj\Debug\netcoreapp2.0\Exercies02.AssemblyInfo.cs
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\bin\Debug\netcoreapp2.0\Exercies02.pdb
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\obj\Debug\netcoreapp2.0\Exercies02.dll
+F:\Workspace\DotNet\uebungBook\Chapter12\Exercies02\obj\Debug\netcoreapp2.0\Exercies02.pdb

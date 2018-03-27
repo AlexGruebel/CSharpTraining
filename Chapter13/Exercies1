@@ -1,0 +1,10 @@
+1. In the .NET Core there is a Process class that has properties like: MachineName, PagedMemorySize64, ProcessorAffinity, StartTime, Threads, ...
+2. to nanosecond
+3. Add Async to the method name
+4. async
+5. You have to declare the task inside the Parent Task
+6. becouse the look keyword can couse deadlooks, use the monitor class instead
+7. you shoud use them on atomic operations on asynchronus tasks
+8. Mutex has more features than Monitor, it can be shared between prococesses
+9. It improves scalability on the serverside, but not performence
+10. Yes with a toke

@@ -1,0 +1,10 @@
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/obj/Debug/netcoreapp2.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/obj/Debug/netcoreapp2.0/AsyncConsole.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/obj/Debug/netcoreapp2.0/AsyncConsole.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/bin/Debug/netcoreapp2.0/AsyncConsole.deps.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/bin/Debug/netcoreapp2.0/AsyncConsole.runtimeconfig.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/bin/Debug/netcoreapp2.0/AsyncConsole.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/bin/Debug/netcoreapp2.0/AsyncConsole.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/bin/Debug/netcoreapp2.0/AsyncConsole.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/obj/Debug/netcoreapp2.0/AsyncConsole.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/AsyncConsole/obj/Debug/netcoreapp2.0/AsyncConsole.pdb

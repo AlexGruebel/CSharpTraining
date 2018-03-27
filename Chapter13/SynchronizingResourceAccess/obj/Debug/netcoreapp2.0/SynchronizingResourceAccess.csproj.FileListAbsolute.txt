@@ -1,0 +1,12 @@
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/SynchronizingResourceAccess.deps.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/SynchronizingResourceAccess.runtimeconfig.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/SynchronizingResourceAccess.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/SynchronizingResourceAccess.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/SynchronizingResourceAccess.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/obj/Debug/netcoreapp2.0/SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/obj/Debug/netcoreapp2.0/SynchronizingResourceAccess.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/obj/Debug/netcoreapp2.0/SynchronizingResourceAccess.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/obj/Debug/netcoreapp2.0/SynchronizingResourceAccess.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/obj/Debug/netcoreapp2.0/SynchronizingResourceAccess.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/MonitoringLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/SynchronizingResourceAccess/bin/Debug/netcoreapp2.0/MonitoringLib.pdb

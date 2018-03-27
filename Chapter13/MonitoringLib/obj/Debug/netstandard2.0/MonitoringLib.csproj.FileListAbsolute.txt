@@ -1,0 +1,8 @@
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/bin/Debug/netstandard2.0/MonitoringLib.deps.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/bin/Debug/netstandard2.0/MonitoringLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/bin/Debug/netstandard2.0/MonitoringLib.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.pdb

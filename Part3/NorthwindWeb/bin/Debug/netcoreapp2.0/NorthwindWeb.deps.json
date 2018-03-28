@@ -24,7 +24,8 @@
       "NorthwindWeb/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.6",
-          "Microsoft.NETCore.App": "2.0.0"
+          "Microsoft.NETCore.App": "2.0.0",
+          "NorthwindContextLib": "1.0.0"
         },
         "runtime": {
           "NorthwindWeb.dll": {}
@@ -3794,6 +3795,26 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "NorthwindContextLib/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.2",
+          "NorthwindEntitiesLib": "1.0.0"
+        },
+        "runtime": {
+          "NorthwindContextLib.dll": {}
+        },
+        "compile": {
+          "NorthwindContextLib.dll": {}
+        }
+      },
+      "NorthwindEntitiesLib/1.0.0": {
+        "runtime": {
+          "NorthwindEntitiesLib.dll": {}
+        },
+        "compile": {
+          "NorthwindEntitiesLib.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -5979,6 +6000,16 @@
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
+    },
+    "NorthwindContextLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthwindEntitiesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",

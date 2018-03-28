@@ -9,3 +9,8 @@ F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\obj\Debug\netcoreapp2.0\Northw
 F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\obj\Debug\netcoreapp2.0\NorthwindWeb.AssemblyInfo.cs
 F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\obj\Debug\netcoreapp2.0\NorthwindWeb.dll
 F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\obj\Debug\netcoreapp2.0\NorthwindWeb.pdb
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\bin\Debug\netcoreapp2.0\NorthwindContextLib.dll
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\bin\Debug\netcoreapp2.0\NorthwindEntitiesLib.dll
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\bin\Debug\netcoreapp2.0\NorthwindContextLib.pdb
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\bin\Debug\netcoreapp2.0\NorthwindEntitiesLib.pdb
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\obj\Debug\netcoreapp2.0\NorthwindWeb.csproj.CopyComplete

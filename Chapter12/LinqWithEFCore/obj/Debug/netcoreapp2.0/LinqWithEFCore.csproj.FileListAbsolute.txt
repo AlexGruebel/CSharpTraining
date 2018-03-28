@@ -18,3 +18,14 @@
 /home/alexander/Workspace/DotNet/uebungBook/Chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.AssemblyInfo.cs
 /home/alexander/Workspace/DotNet/uebungBook/Chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.dll
 /home/alexander/Workspace/DotNet/uebungBook/Chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.pdb
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\bin\Debug\netcoreapp2.0\LinqWithEFCore.deps.json
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\bin\Debug\netcoreapp2.0\LinqWithEFCore.runtimeconfig.json
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\bin\Debug\netcoreapp2.0\LinqWithEFCore.runtimeconfig.dev.json
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\bin\Debug\netcoreapp2.0\LinqWithEFCore.dll
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\bin\Debug\netcoreapp2.0\LinqWithEFCore.pdb
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\obj\Debug\netcoreapp2.0\LinqWithEFCore.csprojResolveAssemblyReference.cache
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\obj\Debug\netcoreapp2.0\LinqWithEFCore.csproj.CoreCompileInputs.cache
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\obj\Debug\netcoreapp2.0\LinqWithEFCore.AssemblyInfoInputs.cache
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\obj\Debug\netcoreapp2.0\LinqWithEFCore.AssemblyInfo.cs
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\obj\Debug\netcoreapp2.0\LinqWithEFCore.dll
+F:\Workspace\DotNet\uebungBook\Chapter12\LinqWithEFCore\obj\Debug\netcoreapp2.0\LinqWithEFCore.pdb

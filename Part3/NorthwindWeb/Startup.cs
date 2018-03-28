@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using NorthwindContextLib;
 
 namespace NorthwindWeb
 {
@@ -17,6 +19,8 @@ namespace NorthwindWeb
         {
             //Add Service Mvc, becouse we need it for Razorpages
             services.AddMvc();
+            services.AddDbContext<Northwind>(options => options.UseSqlServer(System.IO.File.ReadAllText(".connectionString")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

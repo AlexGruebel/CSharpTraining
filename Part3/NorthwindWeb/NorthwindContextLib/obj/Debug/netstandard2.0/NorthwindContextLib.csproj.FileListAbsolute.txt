@@ -4,3 +4,9 @@ F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\
 F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
 F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.AssemblyInfoInputs.cache
 F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.AssemblyInfo.cs
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\bin\Debug\netstandard2.0\NorthwindContextLib.pdb
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.csproj.CopyComplete
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.dll
+F:\Workspace\DotNet\uebungBook\Part3\NorthwindWeb\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.pdb

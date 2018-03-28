@@ -13,14 +13,14 @@ namespace NorthwindContextLib
 
         }
 
-        DbSet<Category> Categories { get; set; }
-        DbSet<Customer> Customers { get; set; }
-        DbSet<Employee> Employees { get; set; }
-        DbSet<Order> Orders { get; set; }
-        DbSet<OrderDetail> OrderDetails { get; set; }
-        DbSet<Product> Products { get; set; }
-        DbSet<Shipper> Shippers { get; set; }
-        DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Shipper> Shippers { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -137,10 +137,6 @@ namespace NorthwindContextLib
                 .HasMaxLength(4);
 
             modelBuilder.Entity<Employee>()
-                .Property(e => e.Notes)
-                .HasField("ntext");
-
-            modelBuilder.Entity<Employee>()
                 .HasMany(e => e.Orders)
                 .WithOne(o => o.Employee);
 
@@ -195,6 +191,7 @@ namespace NorthwindContextLib
             modelBuilder.Entity<Supplier>()
                 .HasMany(s => s.Products)
                 .WithOne(p => p.Supplier);
+
         }
     }
 }

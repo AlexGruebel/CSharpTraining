@@ -20,4 +20,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../NorthwindWeb/NorthwindContextLib/NorthwindContextLib.csproj"/>
+    <ProjectReference Include="../NorthwindWeb/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"/>
+  </ItemGroup>
+
 </Project>

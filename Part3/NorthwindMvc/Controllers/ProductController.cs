@@ -12,16 +12,17 @@ namespace NorthwindMvc.Controllers{
     public class ProductController : Controller
     {
         private Northwind _db;
-        private ProductsViewModel _model;
 
         public ProductController(Northwind db){
             _db = db;
         }
 
-        public async Task<IActionResult> Products(){
-            _model = new ProductsViewModel();
-            _model.Categories = await _db.Categories.Include(c => c.Products).ToListAsync();
-            return View(_model);
+        public async Task<IActionResult> Products()
+        {
+            ProductsViewModel model = new ProductsViewModel{
+                Categories = await _db.Categories.Include(c => c.Products).ToListAsync(),
+            };
+            return View(model);
         }
 
         public async Task<IActionResult> ProductDetails(int? id)

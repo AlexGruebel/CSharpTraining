@@ -36,6 +36,7 @@ namespace NorthwindMvc
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
 
+            services.AddDbContext<NorthwindContextLib.Northwind>(options => options.UseSqlServer(System.IO.File.ReadAllText(".connectionString")));
             services.AddMvc();
         }
 

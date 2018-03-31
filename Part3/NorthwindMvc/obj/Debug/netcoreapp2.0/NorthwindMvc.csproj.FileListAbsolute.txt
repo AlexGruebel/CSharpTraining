@@ -1,0 +1,16 @@
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/app.db
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindMvc.deps.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindMvc.runtimeconfig.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindMvc.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindMvc.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindMvc.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/obj/Debug/netcoreapp2.0/NorthwindMvc.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/obj/Debug/netcoreapp2.0/NorthwindMvc.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/obj/Debug/netcoreapp2.0/NorthwindMvc.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/obj/Debug/netcoreapp2.0/NorthwindMvc.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/obj/Debug/netcoreapp2.0/NorthwindMvc.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindContextLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindEntitiesLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindContextLib.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindMvc/bin/Debug/netcoreapp2.0/NorthwindEntitiesLib.pdb

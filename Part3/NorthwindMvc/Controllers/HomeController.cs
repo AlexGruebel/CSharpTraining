@@ -5,14 +5,29 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using NorthwindMvc.Models;
+using NorthwindContextLib;
+using Microsoft.EntityFrameworkCore;
+using NorthwindEntitiesLib;
 
 namespace NorthwindMvc.Controllers
 {
     public class HomeController : Controller
     {
+        private Northwind _db;
+
+        public HomeController(Northwind db)
+        {
+            this._db = db;
+        }
         public IActionResult Index()
         {
-            return View();
+            
+            var model = new HomeIndexViewModel
+            {
+                VisitorCount = 30,
+                Categories = _db.Categories.ToList(),
+            };
+            return View(model);
         }
 
         public IActionResult About()
@@ -33,5 +48,6 @@ namespace NorthwindMvc.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }

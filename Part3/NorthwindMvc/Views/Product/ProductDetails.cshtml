@@ -1,0 +1,25 @@
+@model NorthwindEntitiesLib.Product
+
+<h2>@Model.ProductName</h2>
+<hr/>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>Product ID</dt>
+        <dd>@Model.ProductID</dd>
+        <dt>Supplier</dt>
+        <dd>@Model.Supplier.CompanyName</dd>
+        <dt>Category Name</dt>
+        <dd><a asp-controller="Product" asp-action="CategoryDetails" asp-route-id="@Model.Category.CategoryID">@Model.Category.CategoryName</a></dd>
+        <dt>Unit Price</dt>
+        <dd>@Model.UnitPrice</dd>
+        <dt>Units Stock</dt>
+        <dd>@Model.UnitsInStock</dd>
+        <dt>Units in Order</dt>
+        <dd>@Model.UnitsOnOrder</dd>
+        <dt>Reorder Level</dt>
+        <dd>@Model.ReorderLevel</dd>
+        <dt>Discontinued</dt>
+        <dd>@Model.Discontinued</dd>
+    </dl>
+</div>

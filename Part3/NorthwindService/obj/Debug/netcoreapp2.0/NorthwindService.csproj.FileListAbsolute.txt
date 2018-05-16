@@ -1,0 +1,11 @@
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindService.deps.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindService.runtimeconfig.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindService.runtimeconfig.dev.json
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindService.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindService.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.csprojResolveAssemblyReference.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.csproj.CoreCompileInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.AssemblyInfoInputs.cache
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.AssemblyInfo.cs
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.pdb

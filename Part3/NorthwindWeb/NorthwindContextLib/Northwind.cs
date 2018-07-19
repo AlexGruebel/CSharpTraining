@@ -55,7 +55,7 @@ namespace NorthwindContextLib
                 .HasMaxLength(30);
 
             modelBuilder.Entity<Customer>()
-                .Property(c => c.Adress)
+                .Property(c => c.Address)
                 .HasMaxLength(60);
 
             modelBuilder.Entity<Customer>()

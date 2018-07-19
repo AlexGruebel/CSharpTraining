@@ -27,6 +27,10 @@ namespace NorthwindService.Repositories
             }
         }
 
+        public CustomerRepository()
+        {
+        }
+
         public async Task<Customer> CreateAsync(Customer c)
         {
             c.CustomerID = c.CustomerID.ToUpper();
@@ -43,24 +47,68 @@ namespace NorthwindService.Repositories
             }
         }
 
-        private Customer UpdateCache(string arg1, Customer arg2)
+        private Customer UpdateCache(string id, Customer c)
         {
-            throw new NotImplementedException();
+            Customer old;
+            if(_customerCache.TryGetValue(id, out old))
+            {
+                if(_customerCache.TryUpdate(id, c, old)){
+                    return c;
+                }
+            }
+            return null;
         }
 
-        public Task<bool> DeleteAsync(string id)
+        public async Task<bool> DeleteAsync(string id)
         {
-            throw new System.NotImplementedException();
+            return await Task.Run(() => 
+            {
+                Customer c = _db.Customers.Find(id.ToUpper());
+                _db.Customers.Remove(c);
+                int affected = _db.SaveChanges();
+
+                if(affected == 1){
+                    return Task.Run(() => _customerCache.TryRemove(id, out c));
+                }else{
+                    return null;
+                }
+            });
         }
 
-        public Task<IEnumerable<Customer>> RetrieveAllAsync()
+        public async Task<IEnumerable<Customer>> RetrieveAllAsync()
         {
-            throw new System.NotImplementedException();
+            return await Task.Run<IEnumerable<Customer>>(() 
+                => _customerCache.Values);
         }
 
-        public Task<Customer> UpdateAsync(string id, Customer c)
+        public async Task<Customer> GetCustomerAsync(string id) => await this._db.Customers
+                                                                        .Where(c => c.CustomerID == id.ToUpper())
+                                                                        .FirstOrDefaultAsync();
+
+        public async Task<Customer> UpdateAsync(string id, Customer c)
         {
-            throw new System.NotImplementedException();
+            return await Task.Run(() => 
+            {
+                c.CustomerID  = c.CustomerID.ToUpper();
+                _db.Customers.Update(c);
+                
+
+                //check if the changes affected anything
+                if(_db.SaveChanges() == 1)
+                {
+                    return Task.Run(() => UpdateCache(id, c));
+                }
+                return null;
+            });
+        }
+
+        public async Task<bool> CheckIfUserExist(string id)
+        {
+            if((await this.GetCustomerAsync(id)) == null){
+                return false;
+            }else{  
+                return true;
+            }
         }
     }
 }

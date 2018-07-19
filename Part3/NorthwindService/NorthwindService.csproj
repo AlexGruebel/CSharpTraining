@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NorthwindWeb\NorthwindContextLib\NorthwindContextLib.csproj" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="1.0.0" />
   </ItemGroup>
 
 </Project>

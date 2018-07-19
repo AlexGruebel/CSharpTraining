@@ -9,3 +9,7 @@
 /home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.AssemblyInfo.cs
 /home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.dll
 /home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/obj/Debug/netcoreapp2.0/NorthwindService.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindContextLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindEntitiesLib.dll
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindContextLib.pdb
+/home/alexander/Workspace/DotNet/CSharpTraining/Part3/NorthwindService/bin/Debug/netcoreapp2.0/NorthwindEntitiesLib.pdb

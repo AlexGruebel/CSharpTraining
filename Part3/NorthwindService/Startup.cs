@@ -42,6 +42,8 @@ namespace NorthwindService
                                 ,Version = "v1"
                             });
             });
+
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -57,6 +59,8 @@ namespace NorthwindService
                 c.SwaggerEndpoint("/swagger/v1/swagger.json"
                                 ,"Northwind Service API v1");
             });
+
+            app.UseCors(c => c.WithOrigins("http://localhost:5002"));
             app.UseMvc();
         }
     }

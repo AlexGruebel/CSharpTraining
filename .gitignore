@@ -4,3 +4,5 @@
 .connectionString
 *.dll
 *.pdp
+bin
+obj
